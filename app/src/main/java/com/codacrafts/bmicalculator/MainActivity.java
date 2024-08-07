@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         mdecrementage = findViewById(R.id.decrementage);
         mincrementweight = findViewById(R.id.incremetweight);
         mdecrementweight = findViewById(R.id.decrementweight);
+
         mcalculatebmi = findViewById(R.id.calculatebmi);
         mseekbarforheight = findViewById(R.id.seekbarforheight);
         mmale = findViewById(R.id.male);
